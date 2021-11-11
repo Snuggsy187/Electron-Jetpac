@@ -2,8 +2,6 @@
 
 Jetpac for the Acorn Electron
 
-Coming really soon !
-
 [Download Disk Image version 0.97 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v0.97.ssd)
 
 [Download Tape Image version 0.97 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v0.97.uef)
