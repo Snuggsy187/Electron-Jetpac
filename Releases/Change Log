@@ -1,1 +1,5 @@
+Fixed in version 0.98:
+  Game Over while ship full of fuel - no longer launches ship !
+  CHAIN"" Loader for Tape version
+  Title Screen now ElkJS compatible
 
