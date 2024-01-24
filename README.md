@@ -2,9 +2,9 @@
 
 Jetpac for the Acorn Electron
 
-[Download Disk Image version 1.20 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v1.20.ssd)
+[Download Disk Image version 1.21 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v1.21.ssd)
 
-[Download Tape Image version 1.20 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v1.20.uef)
+[Download Tape Image version 1.21 !](https://github.com/Snuggsy187/Electron-Jetpac/raw/main/Releases/Jetpac-E-v1.21.uef)
 
 Both versions tested with real Electron hardware, Elkulator, ElectrEm and ElkJs !
 
